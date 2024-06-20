@@ -69,7 +69,7 @@ const CheckEmailPage = () => {
                   type='text'
                   id='email'
                   name='email'
-                  placeholder='Enter user name' 
+                  placeholder='Enter User name' 
                   className='placeholder-chek-input bg-slate-100 px-2 py-1 focus:outline-blue-700'
                   value={data.email}
                   onChange={handleOnChange}
